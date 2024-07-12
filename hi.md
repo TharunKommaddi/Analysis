@@ -216,26 +216,25 @@ This study contributes to the growing body of knowledge on blockchain applicatio
 
 `Citations:`
 
-Brown, A., Smith, J., & Jones, K. (2023). Blockchain-based management information systems: Benefits and challenges. Journal of Information Systems, 37(2), 145-162. https://doi.org/10.1111/jis.12345
+1. Brown, A., Smith, J., & Jones, K. (2023). Blockchain-based management information systems: Benefits and challenges. *Journal of Information Systems, 37*(2), 145-162. https://doi.org/10.1111/jis.12345
 
-Chen, L., Wang, H., & Zhang, Y. (2024). Integrating AI with blockchain for enhanced financial services security. Journal of Financial Technology, 12(1), 78-95. https://doi.org/10.1007/s12345-023-00789-x
+2. Chen, L., Wang, H., & Zhang, Y. (2024). Integrating AI with blockchain for enhanced financial services security. *Journal of Financial Technology, 12*(1), 78-95. https://doi.org/10.1007/s12345-023-00789-x
 
-Della Valle, F., & Oliver, M. (2021). Blockchain-based information management for supply chain data-platforms. Applied Sciences, 11(17), Article 8161. https://doi.org/10.3390/app11178161
+3. Della Valle, F., & Oliver, M. (2021). Blockchain-based information management for supply chain data-platforms. *Applied Sciences, 11*(17), Article 8161. https://doi.org/10.3390/app11178161
 
-Fortune Business Insights. (2022). Blockchain market size, share & COVID-19 impact analysis. https://www.fortunebusinessinsights.com/industry-reports/blockchain-market-100072
+4. Fortune Business Insights. (2022). Blockchain market size, share & COVID-19 impact analysis. https://www.fortunebusinessinsights.com/industry-reports/blockchain-market-100072
 
-GlobalData. (2023). Data and analytics market size and forecast (by country, IT solution area, size band and vertical) to 2027. https://www.globaldata.com/store/report/data-and-analytics-technology-market-analysis/
+5. GlobalData. (2023). Data and analytics market size and forecast (by country, IT solution area, size band and vertical) to 2027. https://www.globaldata.com/store/report/data-and-analytics-technology-market-analysis/
 
-Grand View Research. (2023). Blockchain technology market size & growth report, 2030. https://www.grandviewresearch.com/industry-analysis/blockchain-technology-market
+6. Grand View Research. (2023). Blockchain technology market size & growth report, 2030. https://www.grandviewresearch.com/industry-analysis/blockchain-technology-market
 
-Johnson, M., Davis, R., & Wilson, T. (2022). Designing a secure blockchain-based supply chain management framework. International Journal of Supply Chain Management, 15(3), 301-318. https://doi.org/10.1108/IJSCM-09-2021-0456
+7. Johnson, M., Davis, R., & Wilson, T. (2022). Designing a secure blockchain-based supply chain management framework. *International Journal of Supply Chain Management, 15*(3), 301-318. https://doi.org/10.1108/IJSCM-09-2021-0456
 
-Kumar, R., Tripathi, S., & Srivastava, G. (2021). A framework for blockchain-based secure data sharing in healthcare analytics. Journal of Medical Systems, 45(1), Article 15. https://doi.org/10.1007/s10916-020-01679-3
+8. Kumar, R., Tripathi, S., & Srivastava, G. (2021). A framework for blockchain-based secure data sharing in healthcare analytics. *Journal of Medical Systems, 45*(1), Article 15. https://doi.org/10.1007/s10916-020-01679-3
 
-Lee, S., Park, J., & Kim, H. (2024). Blockchain for secure and decentralized artificial intelligence in cybersecurity. IEEE Transactions on Cybersecurity, 8(2), 210-225. https://doi.org/10.1109/TCS.2023.3210987
+9. Lee, S., Park, J., & Kim, H. (2024). Blockchain for secure and decentralized artificial intelligence in cybersecurity. *IEEE Transactions on Cybersecurity, 8*(2), 210-225. https://doi.org/10.1109/TCS.2023.3210987
 
-Li, X., Wu, L., & Zhao, X. (2022). Enhancing supply chain transparency through blockchain-based data analytics. Journal of Operations Management, 68(6), 568-589. https://doi.org/10.1002/joom.1234
-
+10. Li, X., Wu, L., & Zhao, X. (2022). Enhancing supply chain transparency through blockchain-based data analytics. *Journal of Operations Management, 68*(6), 568-589. https://doi.org/10.1002/joom.1234
 
 `7. Appendices`
 
