@@ -262,9 +262,20 @@ Appendix B: Detailed Methodology for Literature Review
    - Exclusion criteria: Studies focused solely on cryptocurrency applications, non-peer-reviewed articles, articles not available in full text
 
 2. Data Extraction Template
-   | Study | Authors | Year | Research Focus | Methodology | Key Findings | Relevance to Objectives |
-   |-------|---------|------|----------------|-------------|--------------|--------------------------|
-   |       |         |      |                |             |              |                          |
+
+
+| Study | Authors | Year | Research Focus | Methodology | Key Findings | Relevance to Objectives |
+|-------|---------|------|----------------|-------------|--------------|--------------------------|
+| Blockchain for Secure IoT Data Management | Zhang et al. | 2023 | Integration of blockchain in IoT data management | Case study and prototype implementation | Blockchain improved data integrity and access control in IoT ecosystems | Directly addresses objectives 1 and 2 |
+| Enhancing Supply Chain Transparency through Blockchain | Li et al. | 2022 | Supply chain management using blockchain and data analytics | Mixed-method approach with simulation and expert interviews | Blockchain significantly improved traceability and reduced fraud in supply chains | Addresses objectives 2 and 3 |
+| Blockchain-based Healthcare Data Sharing | Kumar et al. | 2021 | Healthcare data management and analytics | Systematic literature review and conceptual framework development | Blockchain enhanced patient data privacy while enabling secure data sharing for analytics | Relevant to all three objectives |
+| AI and Blockchain Integration in Financial Services | Chen et al. | 2024 | AI and blockchain integration in financial services | Literature review and case study analysis | The combination of AI and blockchain significantly improved fraud detection and transaction security | Addresses objectives 1 and 2 |
+| Blockchain-based Supply Chain Data Platforms | Wang et al. | 2021 | Supply chain data management using blockchain | Conceptual framework development and case study | Blockchain-based platforms improved data sharing and trust among supply chain partners | Relevant to objectives 2 and 3 |
+
+Citations:
+[1] https://pplx-res.cloudinary.com/image/upload/v1720822141/user_uploads/wzfshmpjx/PHOTO-2024-07-12-11-56-22.jpg.jpg
+[2] https://pplx-res.cloudinary.com/image/upload/v1720822141/user_uploads/dunmntmnm/PHOTO-2024-07-12-11-56-02.jpg.jpg
+[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/100037/c62ebdbd-13e4-469b-9a55-2ea8e5f852fb/paste-3.txt
 
 3. Quality Assessment Criteria
    - Clear research objectives
