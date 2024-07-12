@@ -1,4 +1,4 @@
-
+hhhhh
 1. Abstract
 
 Blockchain technology has emerged as a transformative force in data analytics and information system management. This study examines the integration of blockchain in these domains, focusing on its impact on security, transparency, and data integrity. Through a systematic review of recent literature, we evaluate the effectiveness of blockchain-based controls, analyze security enhancements, and explore transparency improvements. Our findings suggest that blockchain offers significant advantages in ensuring data integrity, strengthening security frameworks, and enhancing transparency in data analytics processes. However, challenges in scalability and integration with existing systems remain. This research contributes to the growing body of knowledge on blockchain applications in information system management and provides insights for practitioners and policymakers.
