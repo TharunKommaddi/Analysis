@@ -11,7 +11,7 @@ The digital landscape is rapidly evolving, with blockchain technology emerging a
 
 In recent years, the integration of blockchain technology with data analytics has gained significant attention from both academia and industry. This convergence presents opportunities to enhance the reliability and trustworthiness of data-driven insights, crucial for effective information system management. As organizations increasingly rely on data analytics for decision-making, ensuring the integrity and security of data throughout its lifecycle has become paramount.
 
-The global blockchain market is projected to grow from $7.18 billion in 2022 to $163.83 billion by 2029, at a CAGR of 56.3% [1]. Concurrently, the data analytics market is expected to reach $346.24 billion by 2030 [2]. These projections underscore the growing importance and potential synergies between blockchain and data analytics in shaping the future of information systems.
+The global blockchain market is projected to grow from $7.18 billion in 2022 to $163.83 billion by 2029, at a CAGR of 56.3% Concurrently, the data analytics market is expected to reach $346.24 billion by 2030. These projections underscore the growing importance and potential synergies between blockchain and data analytics in shaping the future of information systems.
 
 b. Research Aim
 
@@ -46,7 +46,7 @@ This study employs a systematic literature review approach to gather and analyze
 
 c. Background Study
 
-**Blockchain Technology:** A decentralized, distributed ledger that records transactions across multiple computers to ensure data integrity and security [3].
+**Blockchain Technology:** A decentralized, distributed ledger that records transactions across multiple computers to ensure data integrity and security.
 
 **Data Analytics:** The process of examining datasets to draw conclusions about the information they contain, increasingly important for business intelligence and decision-making [4].
 
