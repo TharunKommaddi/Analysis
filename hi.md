@@ -381,5 +381,4 @@ Appendix G: Future Research Directions
 4. Regulatory frameworks for blockchain-based data management
 5. Sustainability and energy efficiency in blockchain-powered analytics systems
 
-These appendices provide comprehensive supplementary information that supports the main text of the dissertation, offering deeper insights into the methodology, technical aspects, and practical applications of blockchain technology in data analytics for information system management.
 
