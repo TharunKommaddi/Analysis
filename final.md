@@ -11,7 +11,7 @@ Blockchain technology has emerged as a transformative force in data analytics an
 
 ### a. Chapter Overview, Introduction and Background
 
-The digital landscape is rapidly evolving, with blockchain technology emerging as a disruptive force in various sectors, including data analytics and information system management. Blockchain, originally conceived as the underlying technology for cryptocurrencies, has demonstrated potential far beyond its initial application. Its decentralized, immutable, and transparent nature offers promising solutions to longstanding challenges in data security, integrity, and transparency.
+The digital landscape is rapidly evolving, with blockchain technology emerging as a disruptive force in various sectors, including data analytics and information system management. Blockchain, originally conceived as the underlying technology for cryptocurrencies, has demonstrated potential far beyond its initial application. Its decentralized, immutable, and transparent nature offers promising solutions to longstanding challenges in data security, integrity, and transparency (Fortune Business Insights, 2022)..
 
 In recent years, the integration of blockchain technology with data analytics has gained significant attention from both academia and industry. This convergence presents opportunities to enhance the reliability and trustworthiness of data-driven insights, crucial for effective information system management. As organizations increasingly rely on data analytics for decision-making, ensuring the integrity and security of data throughout its lifecycle has become paramount.
 
