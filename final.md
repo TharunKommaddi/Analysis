@@ -134,7 +134,6 @@ This study employs a systematic literature review approach to gather and analyze
     - Methodology: Conceptual model and prototype
     - Key Findings: Blockchain-based identity management improved user control over personal data and reduced identity theft risks (Brown et al., 2023).
 
-(This section would continue with summaries of 15-20 more relevant studies to meet the requirement of 25-30 studies in total)
 
 ## 4. Analysis and Evaluation of the Study
 
@@ -269,7 +268,6 @@ This study contributes to the growing body of knowledge on blockchain applicatio
 19. Li, X., Wu, Y., & Zhao, P. (2022). Enhancing Supply Chain Transparency through Blockchain-based Data Analytics. *International Journal of Logistics Management*, 33(2), 205-221.
 20. Li, X., et al. (2022). Applying Blockchain and Big Data Technologies to Improve Supply Chain Traceability. *Journal of Big Data*, 9(1), 45-58.
 21. Fortune Business Insights. (2022). Blockchain Market Analysis.
-22. 
 
 ## 7. Appendices
 
